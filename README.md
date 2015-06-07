@@ -14,7 +14,7 @@ If you would like to download the code and try it for yourself:
 3. Change out the SQL database configuration in config/database.js
 4. Change out auth keys in config/auth.js
 5. Launch: `node server.js`
-6. Visit in your browser at: `http://localhost:8080`
+6. Visit in your browser at: `http://localhost:9090`
 
 
 ## The Original Tutorials
